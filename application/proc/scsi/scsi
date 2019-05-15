@@ -1,0 +1,10 @@
+Attached devices:
+Host: scsi1 Channel: 00 Id: 00 Lun: 00
+  Vendor: NECVMWar Model: VMware IDE CDR10 Rev: 1.00
+  Type:   CD-ROM                           ANSI  SCSI revision: 05
+Host: scsi2 Channel: 00 Id: 00 Lun: 00
+  Vendor: VMware   Model: Virtual disk     Rev: 1.0 
+  Type:   Direct-Access                    ANSI  SCSI revision: 02
+Host: scsi2 Channel: 00 Id: 01 Lun: 00
+  Vendor: VMware   Model: Virtual disk     Rev: 1.0 
+  Type:   Direct-Access                    ANSI  SCSI revision: 02

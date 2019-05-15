@@ -1,0 +1,1 @@
+ro root=/dev/mapper/vg_inhouse-lv_root rd_NO_LUKS LANG=en_US.UTF-8 rd_LVM_LV=vg_inhouse/lv_swap rd_NO_MD SYSFONT=latarcyrheb-sun16 crashkernel=129M@0M rd_LVM_LV=vg_inhouse/lv_root  KEYBOARDTYPE=pc KEYTABLE=us rd_NO_DM rhgb quiet

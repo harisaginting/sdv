@@ -1,0 +1,6 @@
+processor id:            0
+acpi id:                 0
+bus mastering control:   no
+power management:        no
+throttling control:      yes
+limit interface:         yes

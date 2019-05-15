@@ -1,0 +1,3 @@
+reg00: base=0x000000000 (    0MB), size= 2048MB, count=1: write-back
+reg01: base=0x080000000 ( 2048MB), size= 1024MB, count=1: write-back
+reg02: base=0x100000000 ( 4096MB), size= 1024MB, count=1: write-back

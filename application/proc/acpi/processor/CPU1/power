@@ -1,0 +1,5 @@
+active state:            C0
+max_cstate:              C8
+maximum allowed latency: 2000000000 usec
+states:
+    C1:                  type[C1] promotion[--] demotion[--] latency[000] usage[00000000] duration[00000000000000000000]

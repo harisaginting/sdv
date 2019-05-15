@@ -1,0 +1,1 @@
+ </div></div></main> </div><footer class="app-footer"> <span><a href="des.telkom.co.id">SDV <span class="text-danger">DES</span> </a> &copy; 2018</span> </footer><script src="<?=base_url(); ?>assets/js/main.js?v=<?=date('s') ?>"></script> <script src="<?=base_url(); ?>assets/js/app.js"></script></body></html>

@@ -1,0 +1,63 @@
+           CPU0       CPU1       
+  0:     130295          0   IO-APIC-edge      timer
+  1:          7          1   IO-APIC-edge      i8042
+  3:          1          0   IO-APIC-edge    
+  4:          0          1   IO-APIC-edge    
+  7:          0          0   IO-APIC-edge      parport0
+  8:         56          0   IO-APIC-edge      rtc0
+  9:          0          0   IO-APIC-fasteoi   acpi
+ 12:        108          1   IO-APIC-edge      i8042
+ 14:          0          0   IO-APIC-edge      ata_piix
+ 15:         64         44   IO-APIC-edge      ata_piix
+ 24:          0          0   PCI-MSI-edge      pciehp
+ 25:          0          0   PCI-MSI-edge      pciehp
+ 26:          0          0   PCI-MSI-edge      pciehp
+ 27:          0          0   PCI-MSI-edge      pciehp
+ 28:          0          0   PCI-MSI-edge      pciehp
+ 29:          0          0   PCI-MSI-edge      pciehp
+ 30:          0          0   PCI-MSI-edge      pciehp
+ 31:          0          0   PCI-MSI-edge      pciehp
+ 32:          0          0   PCI-MSI-edge      pciehp
+ 33:          0          0   PCI-MSI-edge      pciehp
+ 34:          0          0   PCI-MSI-edge      pciehp
+ 35:          0          0   PCI-MSI-edge      pciehp
+ 36:          0          0   PCI-MSI-edge      pciehp
+ 37:          0          0   PCI-MSI-edge      pciehp
+ 38:          0          0   PCI-MSI-edge      pciehp
+ 39:          0          0   PCI-MSI-edge      pciehp
+ 40:          0          0   PCI-MSI-edge      pciehp
+ 41:          0          0   PCI-MSI-edge      pciehp
+ 42:          0          0   PCI-MSI-edge      pciehp
+ 43:          0          0   PCI-MSI-edge      pciehp
+ 44:          0          0   PCI-MSI-edge      pciehp
+ 45:          0          0   PCI-MSI-edge      pciehp
+ 46:          0          0   PCI-MSI-edge      pciehp
+ 47:          0          0   PCI-MSI-edge      pciehp
+ 48:          0          0   PCI-MSI-edge      pciehp
+ 49:          0          0   PCI-MSI-edge      pciehp
+ 50:          0          0   PCI-MSI-edge      pciehp
+ 51:          0          0   PCI-MSI-edge      pciehp
+ 52:          0          0   PCI-MSI-edge      pciehp
+ 53:          0          0   PCI-MSI-edge      pciehp
+ 54:          0          0   PCI-MSI-edge      pciehp
+ 55:          0          0   PCI-MSI-edge      pciehp
+ 56:    9098851       1927   PCI-MSI-edge      vmw_pvscsi
+ 57:  166909044         22   PCI-MSI-edge      eth0-rxtx-0
+ 58:  152522635          0   PCI-MSI-edge      eth0-rxtx-1
+ 59:          0          0   PCI-MSI-edge      eth0-event-2
+ 60:          1          0   PCI-MSI-edge      vmci
+ 61:          0          0   PCI-MSI-edge      vmci
+NMI:          0          0   Non-maskable interrupts
+LOC:  600345495  328108987   Local timer interrupts
+SPU:          0          0   Spurious interrupts
+PMI:          0          0   Performance monitoring interrupts
+IWI:          0          0   IRQ work interrupts
+RES:    5496241    6070707   Rescheduling interrupts
+CAL:       1190    3855877   Function call interrupts
+TLB:    1319030    1544684   TLB shootdowns
+TRM:          0          0   Thermal event interrupts
+THR:          0          0   Threshold APIC interrupts
+MCE:          0          0   Machine check exceptions
+MCP:     130146     130146   Machine check polls
+ERR:          0
+MIS:          0

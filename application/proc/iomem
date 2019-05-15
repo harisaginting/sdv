@@ -1,0 +1,112 @@
+00000000-0000ffff : reserved
+00010000-0009f7ff : System RAM
+0009f800-0009ffff : reserved
+000a0000-000bffff : PCI Bus 0000:00
+000c0000-000c7fff : Video ROM
+000ca000-000cbfff : reserved
+  000ca000-000cafff : Adapter ROM
+000cc000-000cffff : PCI Bus 0000:00
+000d0000-000d3fff : PCI Bus 0000:00
+000d4000-000d7fff : PCI Bus 0000:00
+000d8000-000dbfff : PCI Bus 0000:00
+000dc000-000fffff : reserved
+  000f0000-000fffff : System ROM
+00100000-bfeeffff : System RAM
+  01000000-01533564 : Kernel code
+  01533565-01c0cc4f : Kernel data
+  01d58000-0201faa3 : Kernel bss
+  03000000-0b0fffff : Crash kernel
+bfef0000-bfefefff : ACPI Tables
+bfeff000-bfefffff : ACPI Non-volatile Storage
+bff00000-bfffffff : System RAM
+c0000000-febfffff : PCI Bus 0000:00
+  c0000000-c0007fff : 0000:00:0f.0
+  e9b00000-e9bfffff : PCI Bus 0000:22
+  e9c00000-e9cfffff : PCI Bus 0000:1a
+  e9d00000-e9dfffff : PCI Bus 0000:12
+  e9e00000-e9efffff : PCI Bus 0000:0a
+  e9f00000-e9ffffff : PCI Bus 0000:21
+  ea000000-ea0fffff : PCI Bus 0000:19
+  ea100000-ea1fffff : PCI Bus 0000:11
+  ea200000-ea2fffff : PCI Bus 0000:09
+  ea300000-ea3fffff : PCI Bus 0000:20
+  ea400000-ea4fffff : PCI Bus 0000:18
+  ea500000-ea5fffff : PCI Bus 0000:10
+  ea600000-ea6fffff : PCI Bus 0000:08
+  ea700000-ea7fffff : PCI Bus 0000:1f
+  ea800000-ea8fffff : PCI Bus 0000:17
+  ea900000-ea9fffff : PCI Bus 0000:0f
+  eaa00000-eaafffff : PCI Bus 0000:07
+  eab00000-eabfffff : PCI Bus 0000:1e
+  eac00000-eacfffff : PCI Bus 0000:16
+  ead00000-eadfffff : PCI Bus 0000:0e
+  eae00000-eaefffff : PCI Bus 0000:06
+  eaf00000-eaffffff : PCI Bus 0000:1d
+  eb000000-eb0fffff : PCI Bus 0000:15
+  eb100000-eb1fffff : PCI Bus 0000:0d
+  eb200000-eb2fffff : PCI Bus 0000:05
+  eb300000-eb3fffff : PCI Bus 0000:1c
+  eb400000-eb4fffff : PCI Bus 0000:14
+  eb500000-eb5fffff : PCI Bus 0000:0c
+  eb600000-eb6fffff : PCI Bus 0000:04
+  eb700000-eb7fffff : PCI Bus 0000:1b
+  eb800000-eb8fffff : PCI Bus 0000:13
+  eb900000-eb9fffff : PCI Bus 0000:0b
+    eb900000-eb90ffff : 0000:0b:00.0
+  eba00000-ebafffff : PCI Bus 0000:03
+    eba00000-eba0ffff : 0000:03:00.0
+  ebb00000-ebffffff : PCI Bus 0000:02
+  ec000000-efffffff : 0000:00:0f.0
+  f0000000-f7ffffff : PCI MMCONFIG 0 [00-7f]
+    f0000000-f7ffffff : reserved
+      f0000000-f7ffffff : pnp 00:0d
+  fb600000-fb6fffff : PCI Bus 0000:22
+  fb700000-fb7fffff : PCI Bus 0000:1a
+  fb800000-fb8fffff : PCI Bus 0000:12
+  fb900000-fb9fffff : PCI Bus 0000:0a
+  fba00000-fbafffff : PCI Bus 0000:21
+  fbb00000-fbbfffff : PCI Bus 0000:19
+  fbc00000-fbcfffff : PCI Bus 0000:11
+  fbd00000-fbdfffff : PCI Bus 0000:09
+  fbe00000-fbefffff : PCI Bus 0000:20
+  fbf00000-fbffffff : PCI Bus 0000:18
+  fc000000-fc0fffff : PCI Bus 0000:10
+  fc100000-fc1fffff : PCI Bus 0000:08
+  fc200000-fc2fffff : PCI Bus 0000:1f
+  fc300000-fc3fffff : PCI Bus 0000:17
+  fc400000-fc4fffff : PCI Bus 0000:0f
+  fc500000-fc5fffff : PCI Bus 0000:07
+  fc600000-fc6fffff : PCI Bus 0000:1e
+  fc700000-fc7fffff : PCI Bus 0000:16
+  fc800000-fc8fffff : PCI Bus 0000:0e
+  fc900000-fc9fffff : PCI Bus 0000:06
+  fca00000-fcafffff : PCI Bus 0000:1d
+  fcb00000-fcbfffff : PCI Bus 0000:15
+  fcc00000-fccfffff : PCI Bus 0000:0d
+  fcd00000-fcdfffff : PCI Bus 0000:05
+  fce00000-fcefffff : PCI Bus 0000:1c
+  fcf00000-fcffffff : PCI Bus 0000:14
+  fd000000-fd0fffff : PCI Bus 0000:0c
+  fd100000-fd1fffff : PCI Bus 0000:04
+  fd200000-fd2fffff : PCI Bus 0000:1b
+  fd300000-fd3fffff : PCI Bus 0000:13
+  fd400000-fd4fffff : PCI Bus 0000:0b
+    fd4fb000-fd4fbfff : 0000:0b:00.0
+      fd4fb000-fd4fbfff : vmxnet3
+    fd4fc000-fd4fcfff : 0000:0b:00.0
+      fd4fc000-fd4fcfff : vmxnet3
+    fd4fe000-fd4fffff : 0000:0b:00.0
+  fd500000-fd5fffff : PCI Bus 0000:03
+    fd5f8000-fd5fffff : 0000:03:00.0
+      fd5f8000-fd5fffff : vmw_pvscsi
+  fd600000-fdffffff : PCI Bus 0000:02
+  fe000000-fe7fffff : 0000:00:0f.0
+  fe800000-fe9fffff : pnp 00:0d
+  febfe000-febfffff : 0000:00:07.7
+fec00000-fec0ffff : reserved
+  fec00000-fec003ff : IOAPIC 0
+fed00000-fed003ff : HPET 0
+  fed00000-fed003ff : pnp 00:08
+fee00000-fee00fff : Local APIC
+  fee00000-fee00fff : reserved
+fffe0000-ffffffff : reserved

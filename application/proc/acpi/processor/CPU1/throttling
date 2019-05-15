@@ -1,0 +1,12 @@
+state count:             8
+active state:            T0
+state available: T0 to T7
+states:
+   *T0:                  100%
+    T1:                  87%
+    T2:                  75%
+    T3:                  62%
+    T4:                  50%
+    T5:                  37%
+    T6:                  25%
+    T7:                  12%
